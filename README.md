@@ -1,2 +1,12 @@
-# -Internet-Speeds-Smart-City-Development
-Data analysis project on smart city development in the UAE using datasets from Ookla and virus reports. Processed 100K+ records with Pandas and NumPy, and visualized internet speed trends using Matplotlib.
+# Smart City Data Analysis – UAE
+
+## 📊 Overview
+This project focuses on analyzing **smart city development in the UAE** by combining datasets from **Ookla (internet speed tests)** and **virus reports**.  
+The analysis involved processing **100K+ records** to study patterns and visualize **internet speed trends** across regions.  
+
+## ✨ Features
+- **Data collection & cleaning** from multiple sources (Ookla & virus reports).  
+- Combined datasets for a unified analysis.  
+- Processed **large datasets (100K+ records)** efficiently.  
+- **Visualization of internet speed trends** using Matplotlib.  
+- Insights into smart city development and connectivity.  
