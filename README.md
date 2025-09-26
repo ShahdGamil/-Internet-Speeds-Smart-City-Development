@@ -10,3 +10,16 @@ The analysis involved processing **100K+ records** to study patterns and visuali
 - Processed **large datasets (100K+ records)** efficiently.  
 - **Visualization of internet speed trends** using Matplotlib.  
 - Insights into smart city development and connectivity.  
+
+## 📌 Use Cases
+- Urban and smart city development studies  
+- Internet speed and connectivity analysis  
+- Data-driven policy making  
+- Research on infrastructure and digital growth  
+
+
+## 🛠️ Tools & Technologies
+- **Python**  
+- **Pandas**  
+- **NumPy**  
+- **Matplotlib**  
